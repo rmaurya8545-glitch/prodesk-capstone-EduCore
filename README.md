@@ -39,7 +39,7 @@ Fullstack
 Payments, live classes, AI features, discussion forums, certificates.
 
 ## Wireframes
-(Figma link will be added here)
+Figma wireframes (desktop and Mobile): [View on Figma](https://www.figma.com/design/lQ1H4RABbtyPSMwOSbDKtf/EduCore-WireFrames?node-id=0-1&t=2NViZQJ2f1l1Vfoa-1)
 
 ## Database Design
 (ERD diagram will be added here)
