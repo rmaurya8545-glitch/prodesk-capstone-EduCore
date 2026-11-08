@@ -42,4 +42,4 @@ Payments, live classes, AI features, discussion forums, certificates.
 Figma wireframes (desktop and Mobile): [View on Figma](https://www.figma.com/design/lQ1H4RABbtyPSMwOSbDKtf/EduCore-WireFrames?node-id=0-1&t=2NViZQJ2f1l1Vfoa-1)
 
 ## Database Design
-(ERD diagram will be added here)
+![EduCore ERD](ERD.png.png)
